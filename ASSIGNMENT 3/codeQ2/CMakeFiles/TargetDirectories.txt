@@ -1,0 +1,3 @@
+/mnt/c/Users/SAUMIL/Desktop/codeQ2/CMakeFiles/Assignment03.dir
+/mnt/c/Users/SAUMIL/Desktop/codeQ2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/SAUMIL/Desktop/codeQ2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codeQ1/CMakeFiles/Assignment04.dir
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codeQ1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codeQ1/CMakeFiles/rebuild_cache.dir

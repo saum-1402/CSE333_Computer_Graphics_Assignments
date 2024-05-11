@@ -1,0 +1,3 @@
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codedielectric/CMakeFiles/Assignment04.dir
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codedielectric/CMakeFiles/edit_cache.dir
+/mnt/c/Users/SAUMIL/Desktop/CG_A4/codedielectric/CMakeFiles/rebuild_cache.dir
